@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple Rails5 blog designed to illustrate features of the framework and a starting point for anyone to create a Rails app
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.3.1
 
-* System dependencies
+* System dependencies: None
 
-* Configuration
+* Simply run bin/rails server on the terminal
 
-* Database creation
+* Uses My-Sql, so not much --> will convert to postgres
 
-* Database initialization
+* Database initialization (TO DO)
 
-* How to run the test suite
+* How to run the test suite (TO DO)
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services (job queues, cache servers, search engines, etc.) (None)
 
-* Deployment instructions
-
-* ...
+* Deployment instructions (None)
